@@ -1,2 +1,3 @@
 # oclint-docs-cn
-OCLint documentation in Chinese
+
+OCLint documentation (http://docs.oclint.org/en/stable/) in Chinese
